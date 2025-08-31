@@ -1,7 +1,7 @@
 ---
 title: "Draft example"
 description: "Setting draft flag to true to hide this post."
-date: "12/31/2022"
+date: "08/31/2025"
 draft: false
 ---
 
